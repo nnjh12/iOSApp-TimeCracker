@@ -1,5 +1,6 @@
 # TimeCracker
-App helping users easily record, label, track, and summarize their time
+Developed an iOS app for recording, tracking, and summarizing daily activities<br/>
+Utilized Swift for UI, Firebase for real-time data storage, and Firebase authentication for user management.
 
 ## App Architecture
 * Architecting the App using MVVM(Model-View-ViewModel)[^1]
