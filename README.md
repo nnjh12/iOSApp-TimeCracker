@@ -1,6 +1,13 @@
 # TimeCracker
 App helping users easily record, label, track, and summarize their time
 
+## App Architecture
+* Architecting the App using MVVM(Model-View-ViewModel)[^1]
+* UI Layer: Swift
+* Backend/DB Layer: Firebase
+![Architecture](https://koenig-media.raywenderlich.com/uploads/2020/07/mvvm-diagram.png)
+[^1]:Image from [media blog](https://koenig-media.raywenderlich.com/uploads/2020/07/mvvm-diagram.png)
+
 ## Who will use our app?
 Our app is perfect for anyone who needs to keep track of their daily tasks and routines.
 
