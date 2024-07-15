@@ -1,4 +1,4 @@
-# TimeCracker
+# Time Cracker
 Developed an iOS app for recording, tracking, and summarizing daily activities<br/>
 Utilized Swift for UI, Firebase for real-time data storage, and Firebase authentication for user management.
 
